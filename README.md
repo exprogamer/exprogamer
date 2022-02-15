@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @exprogamer
+- 👀 I’m interested in programming world at the moment
+- 🌱 I’m currently learning C++
